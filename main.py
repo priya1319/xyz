@@ -6,3 +6,4 @@ for i in range(n):
     l.append(e)      #9
     d = l[-1+i]        #11
 print(l)
+print(d)
